@@ -88,7 +88,3 @@ python main.py
 - Os arquivos baixados serão salvos no diretório `MEDIA/`
 - É necessário ter uma API key válida do 2captcha para resolução automática de captchas
 - Configure corretamente o token 2FA se estiver habilitado em sua conta
-
-## Suporte
-
-Para problemas e sugestões, por favor abra uma issue no repositório. 
