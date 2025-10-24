@@ -1,0 +1,22 @@
+# Módulos principais
+beautifulsoup4==4.12.2
+requests==2.31.0
+onetimepass==1.0.1
+2captcha-python==1.2.0
+Pillow==10.0.0
+pyinstaller==6.3.0
+configparser==6.0.0
+pandas==2.1.4
+openpyxl==3.1.2  # Para ler arquivos Excel
+robobrowser==0.5.3  # Para navegação web
+lxml==4.9.3  # Dependência do BeautifulSoup
+python-dateutil==2.8.2  # Para manipulação de datas
+werkzeug==0.16.1  # Versão específica necessária para o RoboBrowser
+mechanize==0.4.9  # Dependência do RoboBrowser
+six==1.16.0  # Dependência do RoboBrowser
+pyjudi_tjpr
+
+# Dependências de desenvolvimento
+pytest==7.4.3  # Para testes
+black==23.11.0  # Para formatação de código
+flake8==6.1.0  # Para linting 
